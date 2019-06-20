@@ -37,3 +37,12 @@ Finally coursework projects are those that I was tasked with completing for vari
   - [Futoshiki Puzzle](https://github.com/JGoodHub/Futoshiki-Puzzle)
   - [Student Management System](https://github.com/JGoodHub/Student-Management-System)
   - [Stock Exchange Simulation](https://github.com/JGoodHub/Stock-Exchange-Simulation)
+
+## 3D Modeling
+
+While the main purpose of my degree was centred around the field of computer science I have also produced several models as part of both hobby projects and art assets for Unity games.
+
+All completed models can be viewed on my SketchFab as well as downloads for most models found here on Github.
+
+- [SketchFab](https://sketchfab.com/)
+- [Download](https://github.com/JGoodHub/3D-Models)
