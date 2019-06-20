@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey I'm James Goodman, I'm an enthusiastic and driven graduate developer with in-depth knowledge attaining to the core principles of programming both well documented and reusable code, in Object Orientated languages.
+Hi I'm James Goodman, I'm an enthusiastic and driven graduate developer with in-depth knowledge attaining to the core principles of programming both well documented and reusable code, in Object Orientated languages.
 
 As an avid gamers and games dev enthusiast I enjoys the challenge of attempting to replicate features and systems present in other games, as well as experimenting with new ones that I can implement in my own projects.
 
@@ -21,19 +21,19 @@ The majority of my projects fall under one of the following three catagories. Ga
 
 Tools are projects that were created with a specific purpose or goal in mind. This ranges from either using that project to explore a new library or data structure to creating an application that solves a problem like screen 'real estate' on a single monitor.
 
-Finally coursework projects are those that I was tasked with completing for various modules of my degree
+Finally coursework projects are those that I was tasked with completing for various modules of my degree. This includes both team and individual projects where I was provided with a speciation and tasked with creating a program or application to fullfil that design.
 
 ### Browse
 
 - Games
-  - Heroes Quest
-  - Stellar Strategy
-  - Ship Smash
+  - [Heroes Quest](https://github.com/JGoodHub/Heroes-Quest)
+  - [Stellar Strategy](https://github.com/JGoodHub/Stellar-Stratagy)
+  - [Ship Smash](https://github.com/JGoodHub/Ship-Smash)
 - Tools
-  - Rail Network Simulation
-  - PIP Player
-  - Raytrace Rendering Engine
+  - [Rail Network Simulation](https://github.com/JGoodHub/Rail-Network-Simualtion)
+  - [PIP Player](https://github.com/JGoodHub/Java-PIP-Player)
+  - [Raytrace Rendering Engine](https://github.com/JGoodHub/Raytrace-Engine)
 - Coursework
-  - Futoshiki Puzzle
-  - Student Management System
-  - Stock Exchange Simulation
+  - [Futoshiki Puzzle](https://github.com/JGoodHub/Futoshiki-Puzzle)
+  - [Student Management System](https://github.com/JGoodHub/Student-Management-System)
+  - [Stock Exchange Simulation](https://github.com/JGoodHub/Stock-Exchange-Simulation)
