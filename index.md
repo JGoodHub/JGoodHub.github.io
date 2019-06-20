@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JGoodHub/JGoodHub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to my Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
 
-### Markdown
+Hey I'm James Goodman, I'm an enthusiastic and driven graduate developer with in-depth knowledge attaining to the core principles of programming both well documented and reusable code, in Object Orientated languages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As an avid gamers and games dev enthusiast I enjoys the challenge of attempting to replicate features and systems present in other games, as well as experimenting with new ones that I can implement in my own projects.
 
-```markdown
-Syntax highlighted code block
+I'm always eager to learn new skills and techniques that I can use to further improve my programming abilities after having completed my undergraduate degree in Games and Multimedia Environments at the University of Sussex. The degree featured a range of modules that taught me the core techniques and data structures used in everyday programming, as well as creative modules like 3D Animation and Video Production Techniques that allowed for more creative freedom and experimentation.
 
-# Header 1
-## Header 2
-### Header 3
+## Overview
 
-- Bulleted
-- List
+This website details all the nitty gritty details about the projects I have completed both as a hobby and for my degree. Here you can see the projects in action without the need to download, clone, install, unzip or even understand what the code does under the hood.
 
-1. Numbered
-2. List
+However should you want to try out or mess around with any of the projects, information is provided with steps on how to get it up and running.
 
-**Bold** and _Italic_ and `Code` text
+## Projects
 
-[Link](url) and ![Image](src)
-```
+The majority of my projects fall under one of the following three catagories. Games are, as the name would suggest, video games that are primarily built using the Unity3D engine and programmed in C#. The collection contains a variety of game genres from space shooters to table top recreations.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tools are projects that were created with a specific purpose or goal in mind. This ranges from either using that project to explore a new library or data structure to creating an application that solves a problem like screen 'real estate' on a single monitor.
 
-### Jekyll Themes
+Finally coursework projects are those that I was tasked with completing for various modules of my degree
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JGoodHub/JGoodHub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Browse
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Games
+  - Heroes Quest
+  - Stellar Strategy
+  - Ship Smash
+- Tools
+  - Rail Network Simulation
+  - PIP Player
+  - Raytrace Rendering Engine
+- Coursework
+  - Futoshiki Puzzle
+  - Student Management System
+  - Stock Exchange Simulation
