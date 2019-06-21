@@ -36,7 +36,7 @@ Finally coursework projects are those that I was tasked with completing for vari
 ### Browse
 
 - Games
-  - [Heroes Quest](heroes_quest.md)
+  - [Heroes Quest](project_pages/heroes_quest.md)
   - [Stellar Strategy](https://github.com/JGoodHub/Stellar-Stratagy)
   - [Ship Smash](https://github.com/JGoodHub/Ship-Smash)
 - Tools
