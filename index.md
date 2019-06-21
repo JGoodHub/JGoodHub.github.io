@@ -15,7 +15,9 @@ The degree featured a range of modules that taught me the core techniques and da
 
 Here you can view my CV which contains information regarding both my education and previous experience.
 
-[Open CV](assets/documents/James_Goodman_CV.pdf)
+[View CV](assets/documents/James_Goodman_CV.pdf)
+
+A PDF of the CV is available by right-clicking the link above and selecting "save link as".
 
 ## Overview
 
