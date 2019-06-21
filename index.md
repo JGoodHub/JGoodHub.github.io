@@ -44,5 +44,4 @@ While the main purpose of my degree was centred around the field of computer sci
 
 All completed models can be viewed on my SketchFab as well as downloads for most models found here on Github.
 
-- [SketchFab](https://sketchfab.com/)
-- [Download](https://github.com/JGoodHub/3D-Models)
+- [SketchFab](https://sketchfab.com/jgoodhub/models)
