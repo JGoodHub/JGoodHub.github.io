@@ -13,7 +13,9 @@ The degree featured a range of modules that taught me the core techniques and da
 
 ### CV
 
-[Download CV](assets/documents/James_Goodman_CV.pdf)
+Here you can view my CV which contains information regarding both my education and previous experience.
+
+[Open CV](assets/documents/James_Goodman_CV.pdf)
 
 ## Overview
 
@@ -32,7 +34,7 @@ Finally coursework projects are those that I was tasked with completing for vari
 ### Browse
 
 - Games
-  - [Heroes Quest](https://github.com/JGoodHub/Heroes-Quest)
+  - [Heroes Quest](heroes_quest.md)
   - [Stellar Strategy](https://github.com/JGoodHub/Stellar-Stratagy)
   - [Ship Smash](https://github.com/JGoodHub/Ship-Smash)
 - Tools
