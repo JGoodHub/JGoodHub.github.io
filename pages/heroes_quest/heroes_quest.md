@@ -1,6 +1,10 @@
 # Heroes Quest
 
-[Home](../index.md)
+[Home](../../index.md)
+|
+[Browse Projects](../browse_projects/browse_projects.md)
+|
+[Contact Me](../contact_me/contact_me.md)
 
 ## Overview
 

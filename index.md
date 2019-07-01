@@ -3,7 +3,9 @@
 
 **Home**
 |
-[Browse Projects](../browse_projects.md)
+[Browse Projects](pages/browse_projects/browse_projects.md)
+|
+[Contact Me](pages/contact_me/contact_me.md)
 
 ## About Me
 
@@ -39,15 +41,4 @@ Finally coursework projects are those that I was tasked with completing for vari
 
 ### Browse
 
-- Games
-  - [Heroes Quest](project_pages/heroes_quest.md)
-  - [Stellar Strategy](https://github.com/JGoodHub/Stellar-Stratagy)
-  - [Ship Smash](project_pages/ship_smash.md)
-- Tools
-  - [Rail Network Simulation](https://github.com/JGoodHub/Rail-Network-Simualtion)
-  - [PIP Player](https://github.com/JGoodHub/Java-PIP-Player)
-  - [Raytrace Rendering Engine](https://github.com/JGoodHub/Raytrace-Engine)
-- Coursework
-  - [Futoshiki Puzzle](https://github.com/JGoodHub/Futoshiki-Puzzle)
-  - [Student Management System](https://github.com/JGoodHub/Student-Management-System)
-  - [Stock Exchange Simulation](https://github.com/JGoodHub/Stock-Exchange-Simulation)
+A list of all projects can be found on the "Browse Projects" tab. Projects are divided into sub-catagories based on origin or purpose.
