@@ -8,13 +8,19 @@
 
 ## Overview
 
-Overview
+Scrabble match is a word based puzzle game where you must create word to score points. Presented with a grid of letter tiles use your mouse or finger to swap tiles and drag to form words. Try to get the highest score before the time runs out or just free play and discover words you never knew existed.
+
+When the player completes a word, as well as awarding them a well earned points increase the game also serves up that words definition, this allows for the players to learn more about words they thought they knew, or potentially learn about words they never knew to start with.
 
 ## Media
 
 Here are a video of the game in action.
 
-[Gameplay Playthrough](https://www.youtube.com/watch?v=)
+[Gameplay Playthrough](https://www.youtube.com/watch?v=YyPSdsyOLak)
+
+Here is a video of the game running on a smartphone device.
+
+[Android Demo](https://www.youtube.com/watch?v=aaII9sBwazs)
 
 ## Download
 
@@ -33,3 +39,7 @@ Various gameplay screenshots
 ![Image of Gameplay 1](images/gameplay_1.png)
 
 ![Image of Gameplay 2](images/gameplay_2.png)
+
+Photo of the game running on an android device.
+
+![Image of Android Gameplay](images/android_play.png)
