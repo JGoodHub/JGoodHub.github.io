@@ -34,14 +34,14 @@ If you would like to play the game a pre-built version of the game can be found 
 
 Initial concept artwork for the game.
 
-![Image of Concept 1](../assets/images/heroes_quest/concept_1.png)
+![Image of Concept 1](images/concept_1.png)
 
-![Image of Concept 2](../assets/images/heroes_quest/concept_2.png)
+![Image of Concept 2](images/concept_2.png)
 
 A visualisation of the games pathfinding system.
 
-![Image of Pathfinding](../assets/images/heroes_quest/pathfinding.png)
+![Image of Pathfinding](images/pathfinding.png)
 
 A wizard character casting the fireball ability.
 
-![Image of Spellcasting](../assets/images/heroes_quest/fireball.png)
+![Image of Spellcasting](images/fireball.png)
