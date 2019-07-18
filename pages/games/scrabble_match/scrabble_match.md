@@ -30,7 +30,7 @@ If you would like to browse the project source code for yourself you can downloa
 
 If you would like to play the game a pre-built version of the game can be found in the "Build" root directory, this contains a demo for you to play test the latest version of the game.
 
-As this project was designed with Android being the target system a pre-built APK file can also be found in the Build folder and used to install the game onto any Android device.
+As this project was designed with Android being the target system the end goal will be to upload the game to the google play store, a link to the app will be placed here when the game is complete.
 
 ## Screenshots
 

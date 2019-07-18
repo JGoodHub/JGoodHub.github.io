@@ -13,7 +13,7 @@ Hi I'm James Goodman, I'm an enthusiastic and driven graduate developer with in-
 
 As an avid gamers and games dev enthusiast I enjoys the challenge of attempting to replicate features and systems present in other games, as well as experimenting with new ones that I can implement in my own projects.
 
-I'm always eager to learn new skills and techniques that I can use to further improve my programming abilities after having completed my undergraduate degree in *Computer Science with Game Development* at the *University of Sussex*.
+I'm always eager to learn new skills and techniques that I can use to further improve my programming abilities after having completed my undergraduate degree in *Computer Science with Game Development* at the *University of Sussex* with the result of a *2:1*.
 
 The degree featured a range of modules that taught me the core techniques and data structures used in everyday programming, as well as creative modules like 3D Animation and Video Production Techniques that allowed for more creative freedom and experimentation with modeling and editing software.
 
