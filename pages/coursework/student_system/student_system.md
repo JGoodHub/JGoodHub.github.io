@@ -28,14 +28,18 @@ A pre-built version of the application can be found in the "dist" root directory
 
 ## Screenshots
 
+Login screen for all users.
+
+![Image of Login Page](images/login_page.png)
+
 Supervisor home page.
 
-![Image of URL Extractor](images/super_home.png)
+![Image of Supervisor Home Page](images/super_home.png)
 
 Student proposing project to a supervisor.
 
-![Image of URL Extractor](images/proposing.png)
+![Image of Project Proposal Page](images/proposing.png)
 
-SUpervisor browsing proposed projects by students.
+Supervisor browsing proposed projects by students.
 
-![Image of URL Extractor](images/browsing.png)
+![Image of Project Browsing Page](images/browsing.png)
