@@ -12,7 +12,7 @@ The majority of my projects fall under one of the following three categories. Ga
 
 - Games
   - [Heroes Quest](../games/heroes_quest/heroes_quest.md)
-  - [Scrabble Match](../games/scrabble_match/scrabble_match.md)
+  - [Letter Chain](../games/letter_chain/letter_chain.md)
   - [Stellar Strategy](../games/stellar_strategy/stellar_strategy.md)
   - [Ship Smash](../games/ship_smash/ship_smash.md)
 
