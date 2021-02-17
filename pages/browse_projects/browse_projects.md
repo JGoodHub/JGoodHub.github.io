@@ -28,4 +28,4 @@ Finally coursework projects are those that I was tasked with completing for vari
 - Coursework
   - [Futoshiki Puzzle](../coursework/futo_puzzle/futo_puzzle.md)
   - [Student Management System](../coursework/student_system/student_system.md)
-  - [Stock Exchange Simulation](../coursework/stock_simulation/stock_simulation.md)
+  - [Stock Exchange Simulation](../coursework/stock_simulation/stock_simulator.md)
