@@ -21,6 +21,6 @@
 
 Here you can view my CV which contains information regarding both my education and previous experience.
 
-[View CV](../../assets/documents/james_goodman_cv_v3.pdf)
+[View CV](../../assets/documents/james_goodman_cv.pdf)
 
 A PDF of the CV is available by right-clicking the link above and selecting "Save link as...".
