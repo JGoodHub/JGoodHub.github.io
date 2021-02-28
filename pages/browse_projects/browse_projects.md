@@ -13,6 +13,7 @@ The majority of my projects fall under one of the following three categories. Ga
 - Games
   - [Heroes Quest](../games/heroes_quest/heroes_quest.md)
   - [Letter Chain](../games/letter_chain/letter_chain.md)
+  - [Letter Chain](../games/lunar_defence_vr/lunar_defence_vr.md)
   - [Stellar Strategy](../games/stellar_strategy/stellar_strategy.md)
   - [Ship Smash](../games/ship_smash/ship_smash.md)
 
