@@ -1,10 +1,10 @@
 # Modeling
 
-[Home](../../../index.md)
+[Home](../../index.md)
 |
-[Browse Projects](../../browse_projects/browse_projects.md)
+[Browse Projects](../browse_projects/browse_projects.md)
 |
-[Contact Me](../../contact_me/contact_me.md)
+[Contact Me](../contact_me/contact_me.md)
 
 Low Poly Hexagon Tiles
 

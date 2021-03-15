@@ -8,29 +8,9 @@
 
 ## About Me
 
-Hi I'm James Goodman, I'm an enthusiastic and driven software developer with a passion for coding, making games or doing basically anything involving computers. Thanks to my degree and many years of tinkering, trial, error and stack overflow I've developed an in-depth knowledge attaining to the core principles of programming both well documented and reusable code, in Object Orientated languages.
+Hi, my name is James Goodman, I am a knowledgeable and skilled Unity programmer who has a passion for software and games development that extends beyond my profession career into my personal projects. Backed by a *2:1* BSc degree in *Computer Science with Games Development* from the *University of Sussex*, I enjoy the challenge of engaging with new projects and learning new techniques, tools and languages that I can use to further improve my programming abilities.
 
-As an avid gamer and games dev enthusiast I enjoy the challenge of attempting to replicate features and systems present in other games, as well as experimenting with new ones that I can implement in my own projects.
-
-I'm always eager to learn new skills and techniques that I can use to further improve my programming abilities after having completed my undergraduate degree in *Computer Science with Game Development* at the *University of Sussex* with the result of a *2:1*.
-
-The degree gave me a solid foundation of understanding for the core techniques and data structures used in everyday programming, as well as some more creative modules like 3D Animation/Modelling and Video Production that allowed for a bit more freedom and experimentation with asset creation, as well as giving me a great insight into the intertwined workflows of Design, Art and Programming and how, by their powers combined you get a enjoyable experience.
-
-### My CV
-
-Here you can view my CV which contains information regarding both my education and previous experience.
-
-[View CV](assets/documents/James_Goodman_CV.pdf)
-
-A PDF of the CV is available by right-clicking the link above and selecting "Save link as...".
-
-## Overview
-
-This website provides details about the majority of the projects I have completed both personally and for my degree. Here you can see the projects in action without the need to download, clone, install, unzip or even understand what the code does under the hood.
-
-Each project's page features a short description about its purpose as well as videos and screenshots of the software in action.
-
-However should you want to try out or mess around with any of the projects links to the repositories are provided.
+As a professional Unity developer and games dev enthusiast I enjoy the challenge of creating fun and unique experiences on both mobile and desktop platforms, as well as experimenting with new features and genre combinations I haven't tried before. Notably designing, developing and releasing a word-based Unity mobile game called *Letter Chain*. I also enjoy 3D modeling for use in both personal projects and 3D printing, which has helped me to better understand the design and artistic workflows of those in my team.
 
 ## Letter Chain
 
@@ -47,3 +27,7 @@ In my spare time I also like to create 3D assets for use in both my personal pro
 ### Browse
 
 A list of all projects can be found on the "Browse Projects" tab. Projects are divided into sub-categories based on origin or purpose.
+
+Each project's page features a short description about its purpose as well as videos and screenshots of the software in action.
+
+However should you want to try out or mess around with any of the projects links to the repositories are provided.

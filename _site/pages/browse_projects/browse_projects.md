@@ -13,6 +13,7 @@ The majority of my projects fall under one of the following three categories. Ga
 - Games
   - [Heroes Quest](../games/heroes_quest/heroes_quest.md)
   - [Letter Chain](../games/letter_chain/letter_chain.md)
+  - [Lunar Defence VR](../games/lunar_defence_vr/lunar_defence_vr.md)
   - [Stellar Strategy](../games/stellar_strategy/stellar_strategy.md)
   - [Ship Smash](../games/ship_smash/ship_smash.md)
 
@@ -28,4 +29,4 @@ Finally coursework projects are those that I was tasked with completing for vari
 - Coursework
   - [Futoshiki Puzzle](../coursework/futo_puzzle/futo_puzzle.md)
   - [Student Management System](../coursework/student_system/student_system.md)
-  - [Stock Exchange Simulation](../coursework/stock_simulation/stock_simulation.md)
+  - [Stock Exchange Simulation](../coursework/stock_simulation/stock_simulator.md)

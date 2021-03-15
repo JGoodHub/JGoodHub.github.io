@@ -12,34 +12,8 @@ For the Web Applications and Services module I was tasked with creating a Studen
 
 The systems created allows for administrators to register new supervisors and students onto the system. Users can then login to their respective accounts but can only access pages related to their role, others are locked away behind security measures e.g. to stop a student accepting their own project proposal. From here students can propose or select from dissertation projects under various supervisors. Supervisors then have the ability to accept or reject a student who has request their project.
 
-## Media
-
-Here is a video of the coursework in action.
-
-[Demo Video](https://www.youtube.com/watch?v=)
-
 ## Download
 
 If you would like to browse the project source code for yourself you can download the project from the link below.
 
 [Project Repository](https://github.com/JGoodHub/Student-Management-System)
-
-A pre-built version of the application can be found in the "dist" root directory, this contains a runnable version of the software, a .jar file, that you can use on your machine.
-
-## Screenshots
-
-Login screen for all users.
-
-![Image of Login Page](images/login_page.png)
-
-Supervisor home page.
-
-![Image of Supervisor Home Page](images/super_home.png)
-
-Student proposing project to a supervisor.
-
-![Image of Project Proposal Page](images/proposing.png)
-
-Supervisor browsing proposed projects by students.
-
-![Image of Project Browsing Page](images/browsing.png)
