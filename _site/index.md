@@ -20,11 +20,30 @@ My enthusiasm for game development has led me to broaden my skills in Unity duri
 
 [**Letter Chain Project Page**](pages/games/letter_chain/letter_chain.md)
 
+## Heroes Quest
+
+The aim for my dissertation was to take the existing rule-set and core gameplay elements of Dungeons & Dragons and implement them into an exciting desktop game designed around start-stop gameplay and user created content.
+
+![Heroes Quest Gameplay](pages/games/heroes_quest/images/fireball.png)
+
+[**Heroes Quest Project Page**](pages/games/heroes_quest/heroes_quest.md)
+
+## Lunar Defence
+
+Lunar Defence is a fast paced mobile game designed for the Google cardboard VR headset. Players must defend their base from the imminent threat of a meteorite storm but taking control of the bases many turrets to blast the rocks out the sky.
+
+| ![Lunar Defence Gameplay][1] | ![Lunar Defence Gameplay][2]  |
+
+[1]: pages/games/lunar_defence_vr/images/gameplay_4.png "Lunar Defence Gameplay 4"
+[2]: pages/games/lunar_defence_vr/images/gameplay_5.png "Lunar Defence Gameplay 5"
+
+[**Lunar Defence Project Page**](pages/games/lunar_defence_vr/lunar_defence_vr.md)
+
 ## 3D Modeling
 
 In my spare time I also like to create 3D assets for use in both my personal projects and for 3D printing. These range of a variety of models from construction equipment inspired by my job at Costain to low poly assets for blocking out a scene. It also allows me a great insight into the workflows of artists and designers and how it meshes with development. The page below contains examples of some of my work.
 
-[3D Modeling](pages/modeling/modeling.md)
+[**3D Modeling**](pages/modeling/modeling.md)
 
 ### Browse
 

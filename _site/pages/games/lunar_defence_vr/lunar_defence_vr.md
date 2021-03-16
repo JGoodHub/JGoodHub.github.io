@@ -10,6 +10,24 @@
 
 Lunar Defence is a retro inspired mobile game designed for the Google Cardboard VR headset. The player is tasked with the challenge of defending Earths lunar colony from an incoming meteor storm. Using the bases turrets and their head mounted targetting system the player must lock on to the asteroids and blow them out the sky or face the shattering consequences.
 
+## Media
+
+Here is a video of the game in action, using the built in "in-editor" simulator.
+
+[Gameplay Playthrough Video](https://www.youtube.com/watch?v=DeFq1LP0xew)
+
+Various gameplay screenshots
+
+![Image of Gameplay 1](images/gameplay_1.png)
+
+![Image of Gameplay 2](images/gameplay_2.png)
+
+![Image of Gameplay 3](images/gameplay_3.png)
+
+![Image of Gameplay 4](images/gameplay_4.png)
+
+![Image of Gameplay 4](images/gameplay_5.png)
+
 ## Game Design Document
 
 ### Platform
@@ -62,29 +80,8 @@ Method one is for the player to only look around using the VR headset and firing
 
 Alternatively method two will have the turret fire automatically when the player looks within a certain radius of a meteor. This radius would be proportional to the visual size of the meteor as it approaches.
 
-## Media
-
-Here is a video of the game in action, using the built in "in-editor" simulator.
-
-[Gameplay Playthrough Video](https://www.youtube.com/watch?v=DeFq1LP0xew)
-
 ## Download
 
 If you would like to browse the project source code for yourself you can download the Unity3D project from the link below.
 
 [Lunar Defence Repository](https://github.com/JGoodHub/Lunar-Defence-VR)
-
-## Screenshots
-
-Various gameplay screenshots
-
-![Image of Gameplay 1](images/gameplay_1.png)
-
-![Image of Gameplay 2](images/gameplay_2.png)
-
-![Image of Gameplay 3](images/gameplay_3.png)
-
-![Image of Gameplay 4](images/gameplay_4.png)
-
-![Image of Gameplay 4](images/gameplay_5.png)
-

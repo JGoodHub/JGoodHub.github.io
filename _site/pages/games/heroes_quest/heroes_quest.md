@@ -8,7 +8,7 @@
 
 ## Overview
 
-The primary aim for this project was the creation of a game that instils the elements and ruleset of a Dungeons and Dragons campaign, adapting these rules to better suit the virtual environment where necessary.
+
 
 Heroes Quest is a turn-based, role-playing game where the player controls a party of four heroes as they battle enemies and embark on quests. The game takes place in an open world setting constructed from a grid of prefabricated tiles which form the board upon which the player's characters are placed. The player must move their characters around the world, interacting with the games inhabitants to obtain quests. Each character has a limited health, mana and a set of abilities to use in battle. Combat takes a turn-based approach where the player and enemy each take goes to move their characters and cast abilities on their foes. If a characters health drops to zero they permanently die, if all the player's heroes die then the game is over.
 
