@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, my name is James Goodman, I am a knowledgeable and skilled Unity programmer who has a passion for software and games development that extends beyond my profession career into my personal projects. Backed by a *2:1* BSc degree in *Computer Science with Games Development* from the *University of Sussex*, I enjoy the challenge of engaging with new projects and learning new techniques, tools and languages that I can use to further improve my programming abilities.
+Hi, my name is James Goodman, I am a knowledgeable and skilled Unity programmer who has a passion for software and games development that extends beyond my professional career into my personal projects. Backed by a *2:1* BSc degree in *Computer Science with Games Development* from the *University of Sussex*, I enjoy the challenge of engaging with new projects and learning new techniques, tools and languages that I can use to further improve my programming abilities.
 
 As a professional Unity developer and games dev enthusiast I enjoy the challenge of creating fun and unique experiences on both mobile and desktop platforms, as well as experimenting with new features and genre combinations I haven't tried before. Notably designing, developing and releasing a word-based Unity mobile game called *Letter Chain*. I also enjoy 3D modeling for use in both personal projects and 3D printing, which has helped me to better understand the design and artistic workflows of those in my team.
 
@@ -16,7 +16,9 @@ As a professional Unity developer and games dev enthusiast I enjoy the challenge
 
 My enthusiasm for game development has led me to broaden my skills in Unity during my free time, by creating an android app called “Letter Chain”, which I have since released to the play store. This involved using Unity Services to set up Ad Monetization and fulfilling the various requirements of releasing an app using the Google Play Console.
 
-[Letter Chain](pages/games/letter_chain/letter_chain.md)
+![Letter Chain Gameplay](pages/games/letter_chain/images/letter_chain_gameplay.png)
+
+[**Letter Chain Project Page**](pages/games/letter_chain/letter_chain.md)
 
 ## 3D Modeling
 
