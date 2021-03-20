@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+
+	<title>James Goodman Portfolio</title>
+
+	<link rel="stylesheet" href="../../../style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="../../../auto_header_and_footer.js"></script>
+
+	<style>
+		@media only screen and (min-width: 900px) {
+			.profile-image {
+				clip-path: circle(50%);
+			}
+
+			.project-tagline {
+				width: 50%;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div id="portfolio-header">
+	</div>
+
+	<main id="content" class="main-content" role="main">
+		<p>
+			<a href="../../../index.html">Home</a>
+			|
+			<a href="../../browse_projects/browse_projects.html">Browse Projects</a>
+			|
+			<a href="../../contact_me/contact_me.html">Contact Me</a>
+		</p>
+
+		<h1>“Play In Picture” Player</h1>
+
+		<h2>Overview</h2>
+
+		<p>
+			The PIP Player rather “Play In Picture” Player is a Java application designed to combat the issue of small screen real estate. THe player is designed to take in a youtube video link and then displays it in a dedicated window. The advantage of this is that the window is coded to always render on top of the windows behind it. This means that a user can have say a programming tutorial loaded up at the same time as using an IDE in fullscreen mode.
+		</p>
+
+		<h2>Media & Screenshots</h2>
+
+		<p>Here is a video of the player being used to load up a programming video, overlaying the Netbeans IDE.</p>
+
+		<iframe class="project-video" width="100%" height="445px" src="https://www.youtube.com/embed/YlGqGQ612u4">Player Demo Video</iframe>
+
+		<p>Taking the users valid youtube link as an input.</p>
+
+		<img src="images/url_extractor_valid.png" />
+
+		<p>Rejecting an invalid youtube link.</p>
+
+		<img src="images/url_extractor_invalid.png" />
+
+		<p>Displaying the associated video in a WebView container.</p>
+
+		<img src="images/video_playing.png" />
+
+		<h2>Download</h2>
+
+		<p>If you would like to browse the project source code for yourself you can download the project from the link below.</p>
+
+		<a href="https://github.com/JGoodHub/Play-In-Picture-Player">PIP Player Repository</a>
+
+		<div id="portfolio-footer">
+		</div>
+	</main>
+</body>
+
+</html>

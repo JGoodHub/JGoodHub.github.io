@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+
+	<title>James Goodman Portfolio</title>
+
+	<link rel="stylesheet" href="../../../style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="../../../auto_header_and_footer.js"></script>
+
+	<style>
+		@media only screen and (min-width: 900px) {
+			.profile-image {
+				clip-path: circle(50%);
+			}
+
+			.project-tagline {
+				width: 50%;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div id="portfolio-header">
+	</div>
+
+	<main id="content" class="main-content" role="main">
+		<p>
+			<a href="../../../index.html">Home</a>
+			|
+			<a href="../../browse_projects/browse_projects.html">Browse Projects</a>
+			|
+			<a href="../../contact_me/contact_me.html">Contact Me</a>
+		</p>
+
+		<h1>Lunar Defence VR</h1>
+
+		<h2>Overview</h2>
+
+		<p>
+			Lunar Defence is a retro inspired mobile game designed for the Google Cardboard VR headset that I made across 48 hours for a game jam. The player is tasked with the challenge of defending Earths lunar colony from an incoming meteor storm. Using the bases turrets and their head mounted targeting system the player must lock on to the asteroids and blow them out the sky or face the shattering consequences.
+		</p>
+
+		<h2>Media & Screenshots</h2>
+
+		<p>Here is a video of the game in action, using the built in “in-editor” simulator.</p>
+
+		<iframe class="project-video" width="100%" height="445px" src="https://www.youtube.com/embed/DeFq1LP0xew"></iframe>
+
+		<p>Various gameplay screenshots</p>
+
+		<img src="images/gameplay_1.png" />
+		<img src="images/gameplay_2.png" />
+		<img src="images/gameplay_3.png" />
+		<img src="images/gameplay_4.png" />
+		<img src="images/gameplay_5.png" />
+
+		<h2>Game Design Document</h2>
+
+		<h3>Platform</h3>
+
+		<p>The game will be targeted for the GoogleVR Android platform.</p>
+
+		<h3>Story</h3>
+
+		<p>
+			Shortly after setting up the first lunar based colony in an effort to explore worlds unknown an alert is triggered for an impending meteor storm, as everyone panics the player must brave the danger and single handily fend off the pesky rocks from hitting the bases core buildings.
+		</p>
+
+		<h3>Player</h3>
+
+		<p>The user plays as the colonies only turret defence, a simple auto cannon.</p>
+
+		<h3>Environment</h3>
+
+		<p>
+			Game will be based on the surface of the moon, therefore ground will be a grey uneven dusty surface with minor rocks and scenery, e.g. tools and equipment strewed about.
+		</p>
+
+		<p>Around the player will be three key structures.</p>
+
+		<p>
+			The habitat and a large domed building that houses all the lunar colonists, its the biggest building in the colony and has the highest health.
+		</p>
+
+		<p>
+			The science lab is a medium sized building used for scientific research of the moons surface. It’s a long sleek building akin to a greenhouse but with more wires, pipes and glowy bits.
+		</p>
+
+		<p>
+			Finally the power generation station is the last key structure in the colony, it features several controls boxes with tesla coil appendages and several large solar arrays that cover a large area of the moons surface.
+		</p>
+
+		<p>The three structures are placed equally distance from the turret in a circular pattern.</p>
+
+		<h3>Gameplay</h3>
+
+		<p>
+			The player controls the turrets at the centre of the base and must defence the colonies key structures from destruction.
+		</p>
+
+		<p>
+			The main enemy for the game will be a meteor storm, meteor’s will spawn at random point on the shell of a hemisphere around the base. Each rock will spawn with either a guaranteed target building or a random ground location inside the colony. The player must shoot down the meteors before they reach the ground and impact the colony.
+		</p>
+
+		<p>
+			Each building has a set number of hit points which are reduced when a rock collides with it, the amount reduced is based off of the size of the rock.
+		</p>
+
+		<p>
+			Overtime the intensity of the storm increases until the colony is eventually destroyed. The players final score will be a combination of the time survived, rocks destroyed and hit points remaining on the colony.
+		</p>
+
+		<h3>Art</h3>
+
+		<p>
+			The art for the game will be designed and modelled in blender. Low polygon art will be used to reduce strain on the players phone and improve the VR experience.
+		</p>
+
+		<h3>UI and Controls</h3>
+
+		<p>
+			The games only method of interacting with the UI will be for the player to hover their vision over a certain element, which after a set period of time will trigger that button, switch, etc.
+		</p>
+
+		<p>In game the player will have a choice of two firing methods.</p>
+
+		<p>
+			Method one is for the player to only look around using the VR headset and firing is handled by pressing either the mouse or space bar.
+		</p>
+
+		<p>
+			Alternatively method two will have the turret fire automatically when the player looks within a certain radius of a meteor. This radius would be proportional to the visual size of the meteor as it approaches.
+		</p>
+
+		<h2>Download</h2>
+
+		<p>
+			If you would like to browse the project source code for yourself you can download the Unity3D project from the link below.
+		</p>
+
+		<a href="https://github.com/JGoodHub/Lunar-Defence-VR">Lunar Defence Repository</a>
+
+		<br />
+
+		<div id="portfolio-footer">
+		</div>
+	</main>
+</body>
+
+</html>
