@@ -10,7 +10,7 @@ $(document).ready(() => {
 			</h2>
 
 			<a href="https://www.linkedin.com/in/james-goodman-151b69142/" class="btn">My LinkedIn</a>
-			<a href="https://jgoodhub.github.io/assets/documents/james_goodman_cv.pdf" class="btn">My Resume</a>
+			<a href="https://jgoodhub.github.io/assets/documents/James_Goodman_CV.pdf" class="btn">My Resume</a>
 			<a href="mailto:jagoodmail@gmail.com" class="btn">E-Mail: jagoodmail@gmail.com</a>
 			<a href="https://github.com/JGoodHub" class="btn">My Github</a>
 		</header>
