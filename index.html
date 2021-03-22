@@ -6,25 +6,9 @@
 
 	<title>James Goodman Portfolio</title>
 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css">
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<script src="auto_header_and_footer.js"></script>
-
-	<style>
-		@media only screen and (min-width: 900px) {
-			.profile-image {
-				clip-path: circle(50%);
-			}
-
-			.project-tagline {
-				width: 50%;
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-			}
-		}
-	</style>
+	<link rel="stylesheet" href="stylesheet.css">
 </head>
 
 <body>
@@ -56,9 +40,9 @@
 			My enthusiasm for game development has led me to broaden my skills in Unity during my free time, by creating an android app called “Letter Chain”, which I have since released to the play store. This involved using Unity Services to set up Ad Monetization and fulfilling the various requirements of releasing an app using the Google Play Console.
 		</p>
 
-		<img src="pages/games/letter_chain/images/letter_chain_gameplay.png" />
+		<img src="pages/games/images/lc_screens.png" />
 
-		<a href="pages/games/letter_chain/letter_chain.html"><strong>Letter Chain Project Page</strong></a>
+		<a class="project-link" href="pages/games/letter_chain.html"><strong>Letter Chain Project Page</strong></a>
 
 		<br />
 
@@ -68,9 +52,9 @@
 			The aim for my dissertation was to take the existing rule-set and core gameplay elements of Dungeons &amp; Dragons and implement them into an exciting desktop game designed around start-stop gameplay and user created content.
 		</p>
 
-		<img src="pages/games/heroes_quest/images/fireball.png" alt="Heroes Quest Gameplay" />
+		<img src="pages/games/images/hq_fireball.png" />
 
-		<a href="pages/games/heroes_quest/heroes_quest.html"><strong>Heroes Quest Project Page</strong></a>
+		<a class="project-link" href="pages/games/heroes_quest.html"><strong>Heroes Quest Project Page</strong></a>
 
 		<br />
 
@@ -80,16 +64,18 @@
 			Lunar Defence is a fast paced mobile game designed for the Google cardboard VR headset. Players must defend their base from the imminent threat of a meteorite storm but taking control of the bases many turrets to blast the rocks out the sky.
 		</p>
 
-		<table>
-			<tbody>
-				<tr>
-					<td><img src="pages/games/lunar_defence_vr/images/gameplay_4.png" /></td>
-					<td><img src="pages/games/lunar_defence_vr/images/gameplay_5.png" /></td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<img src="pages/games/images/ld_gameplay (4).png" />
+				</div>
+				<div class="col-6">
+					<img src="pages/games/images/ld_gameplay (5).png" />
+				</div>
+			</div>
+		</div>
 
-		<a href="pages/games/lunar_defence_vr/lunar_defence_vr.html"><strong>Lunar Defence Project Page</strong></a>
+		<a class="project-link" href="pages/games/lunar_defence_vr.html"><strong>Lunar Defence Project Page</strong></a>
 
 		<h2>3D Modeling</h2>
 
@@ -116,6 +102,13 @@
 		<div id="portfolio-footer">
 		</div>
 	</main>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+	<script src="auto_header_and_footer.js"></script>
 </body>
 
 </html>
